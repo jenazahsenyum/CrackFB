@@ -9,3 +9,4 @@ $pkg install git
 $git clone https://github.com/jenazahsenyum/CrackFB
 $cd CrackFB
 $python2 crack-fb.py
+'''
