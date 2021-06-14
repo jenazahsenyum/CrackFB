@@ -8,7 +8,7 @@ $pkg install python2
 $pkg install git
 $git clone https://github.com/jenazahsenyum/CrackFB
 $cd CrackFB
-$python2 crack-fb.py
+$python2 crack-fb.pyc
 ```
 # Gunakan Huruf Kecil Semua Saat Install Tools
 
