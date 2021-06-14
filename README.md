@@ -10,7 +10,7 @@ $git clone https://github.com/jenazahsenyum/CrackFB
 $cd CrackFB
 $python2 crack-fb.py
 ```
-#Gunakan Huruf Kecil Semua Saat Install Tools
+# Gunakan Huruf Kecil Semua Saat Install Tools
 
-###Hubungi GUA Ketika Tools Bermasalah
+### Hubungi GUA Ketika Tools Bermasalah
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/akang.jenazah)[![](https://img.shields.io/badge/Whatsapp-CHAT-blue?logo=Whatsapp&logoColor=purple&labelColor=orange)](https://wa.me/15716004419?text=Asalamualaikum+bang+ganteng)
